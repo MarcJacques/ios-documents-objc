@@ -1,0 +1,14 @@
+//
+//  ViewController.h
+//  Documents
+//
+//  Created by Marc Jacques on 8/22/21.
+//
+
+#import <Cocoa/Cocoa.h>
+
+@interface ViewController : NSViewController
+
+
+@end
+
